@@ -1,2 +1,2 @@
 # 123-RS-App
-https://PsychoK1d.github.io/123-RS-App/cv
+https://psychok1d.github.io/rsschool-cv/cv.
